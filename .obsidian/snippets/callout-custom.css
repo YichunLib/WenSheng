@@ -1,0 +1,9 @@
+.callout[data-callout="yellow-clear"] {
+    --callout-color: 220,143, 60;
+    --callout-icon: none;
+}
+
+.callout[data-callout="green-clear"] {
+    --callout-color: 76,177, 72;
+    --callout-icon: none;
+}

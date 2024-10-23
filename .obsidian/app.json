@@ -1,0 +1,16 @@
+{
+  "foldHeading": true,
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Blue Topaz",
+  "accentColor": "",
+  "monospaceFontFamily": "JBRYXW Mono",
+  "interfaceFontFamily": "JBRYXW Mono",
+  "textFontFamily": "JBRYXW Mono",
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "lable",
+    "callout-custom"
+  ],
+  "nativeMenus": false
+}

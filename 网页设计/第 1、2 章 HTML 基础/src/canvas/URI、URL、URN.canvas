@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2813cfece2000994","x":-352,"y":-308,"width":250,"height":60,"type":"text","text":"URI（统一资源标识符）"},
+		{"id":"cf70fd2cf9918e35","x":-602,"y":-70,"width":250,"height":60,"type":"text","text":"URL（统一资源定位符）"},
+		{"id":"700698750e6313df","x":-102,"y":-70,"width":250,"height":60,"type":"text","text":"URN（同意资源命名符）"}
+	],
+	"edges":[
+		{"id":"0e49a27befb2a321","fromNode":"2813cfece2000994","fromSide":"bottom","toNode":"cf70fd2cf9918e35","toSide":"top","label":"通过定位的方式标识"},
+		{"id":"dea3530985c5826b","fromNode":"2813cfece2000994","fromSide":"bottom","toNode":"700698750e6313df","toSide":"top","label":"通过命名的方式标识"}
+	]
+}

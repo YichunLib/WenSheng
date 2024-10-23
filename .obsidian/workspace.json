@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "a41439a71cf820ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "58f74b0572c29bdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f88b116b953ab43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语词汇/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb9d43b78ebce473",
+    "type": "split",
+    "children": [
+      {
+        "id": "8124444d084c8e0e",
+        "type": "tabs",
+        "dimension": 73.44632768361582,
+        "children": [
+          {
+            "id": "91c5d1fa31420aba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ec7baa08b0a14361",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "271a751146bd3539",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4dfcb96d8d649e82",
+        "type": "tabs",
+        "dimension": 26.55367231638418,
+        "children": [
+          {
+            "id": "756b0c827d64452f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "c69adc2ef66afc87",
+    "type": "split",
+    "children": [
+      {
+        "id": "963e6357b8f53ae6",
+        "type": "tabs",
+        "dimension": 67.48188405797102,
+        "children": [
+          {
+            "id": "0d85e606a25e7899",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "03cc8a6a657d3568",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "英语词汇/未命名.md"
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          },
+          {
+            "id": "c256b6d7f9221761",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "英语/04 定语从句.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "04 定语从句 的反向链接列表"
+            }
+          },
+          {
+            "id": "c348ebe3f245b250",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Release Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Release Notes 的出链列表"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "30433c45037514e8",
+        "type": "tabs",
+        "dimension": 32.518115942028984,
+        "children": [
+          {
+            "id": "9deba4c2f5aa85b5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "e5acc1ca0c052f95",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "英语词汇/未命名.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3628873693012117,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "未命名 的关系图"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 416.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1f88b116b953ab43",
+  "lastOpenFiles": [
+    "英语词汇/(19)Why do people change their careers.md",
+    "英语词汇/未命名.md",
+    "计算机基础/3. Word 字处理软件.md",
+    "计算机基础/2. Windows 7 操作系统.md",
+    "英语/03 非谓语动词.md",
+    "英语/02 虚拟语气.md",
+    "英语/06 状语从句.md",
+    "英语/04 定语从句.md",
+    "英语/05 名词性从句.md",
+    "数据库原理/第一章 绪论.md",
+    "数据库原理/第一章 绪论/数据结构化.md",
+    "discomfort.md",
+    "staircases.md",
+    "Windows 注册表.md",
+    "英语词汇",
+    "Release Notes.md",
+    "数据库原理/第一章 绪论/层次模型.md",
+    "数据库原理/第一章 绪论/数据由数据库管理系统统一管理和控制.md",
+    "数据库原理/第一章 练习题.md",
+    "数据库原理/第二章 关系数据库.md",
+    "数据库原理/考试内容.md",
+    "数据库原理/第一章 绪论",
+    "数据库原理/第一章 绪论/Pasted image 20241021113923_数据库系统的三级模式结构.png",
+    "数据库原理/第一章 绪论/Pasted image 20241021112701_术语对比.png",
+    "数据库原理/第一章 绪论/Pasted image 20241021112607_表中有表-实例.png",
+    "数据库原理/第一章 绪论/常用的数据模型.md",
+    "数据库原理/第一章 绪论/网状模型.md",
+    "数据库原理/第一章 绪论/Pasted image 20241021111028_层次模型的数据结构实例.png",
+    "数据库原理/第一章 绪论/数据的完整性约束条件.md",
+    "数据库原理/第一章 绪论/数据操作.md",
+    "数据库原理/第一章 绪论/数据结构.md",
+    "数据库原理/第一章 绪论/概念模型.md",
+    "数据库原理/第一章 绪论/Pasted image 20241021095528_数据库管理系统-引入数据库后计算机系统的层次结构.png",
+    "Templates",
+    "英语/words",
+    "网页设计/第 3、5、4 章 CSS",
+    "计算机基础/简答题",
+    "C程序设计/习题",
+    "英语/src",
+    "英语",
+    "网页设计/第 1、2 章 HTML 基础/src/img/3. HTML5 的元素及属性",
+    "网页设计/第 1、2 章 HTML 基础/src/img/3. HTML5 的元素及属性/结构标签表达网页结构.png",
+    "计算机基础/Untitled.canvas",
+    "计算机基础/总结 - 1.4 微型计算机的硬件系统.canvas",
+    "网页设计/第 1、2 章 HTML 基础/src/canvas/URI、URL、URN.canvas",
+    "HTML/Untitled.canvas"
+  ]
+}

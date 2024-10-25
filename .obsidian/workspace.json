@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be870383b246c75b",
+        "id": "ed106e73a515ef67",
         "type": "tabs",
         "children": [
           {
-            "id": "8b5391bc4a93695a",
+            "id": "e318341c007541b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/06 状语从句.md",
-                "mode": "source",
+                "file": "英语/04 定语从句.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 状语从句"
+              "title": "04 定语从句"
             }
           }
         ]
@@ -135,9 +135,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "英语/04 定语从句.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Outline of 04 定语从句"
             }
           },
           {
@@ -165,16 +167,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语/06 状语从句.md",
+                "file": "英语/04 定语从句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 06 状语从句"
+              "title": "Outgoing links from 04 定语从句"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "30433c45037514e8",
@@ -197,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "英语/06 状语从句.md",
+                "file": "英语/04 定语从句.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 06 状语从句"
+              "title": "Graph of 04 定语从句"
             }
           }
         ],
@@ -246,16 +248,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b5391bc4a93695a",
+  "active": "a04090ccdd878e0a",
   "lastOpenFiles": [
-    "英语/05 名词性从句.md",
+    "计算机基础/3. Word 字处理软件.md",
+    "计算机基础/2. Windows 7 操作系统.md",
     "英语/06 状语从句.md",
+    "英语/05 名词性从句.md",
     "armed with.md",
     "consciousness.md",
     "英语词汇/未命名.md",
     "英语词汇/(19)Why do people change their careers.md",
-    "计算机基础/3. Word 字处理软件.md",
-    "计算机基础/2. Windows 7 操作系统.md",
     "英语/03 非谓语动词.md",
     "英语/02 虚拟语气.md",
     "英语/04 定语从句.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/07 主谓一致.md",
+                "file": "英语/08 特殊句型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 主谓一致"
+              "title": "08 特殊句型"
             }
           }
         ]
@@ -84,7 +84,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "4dfcb96d8d649e82",
@@ -135,10 +136,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/07 主谓一致.md"
+                "file": "英语/08 特殊句型.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 07 主谓一致"
+              "title": "Outline of 08 特殊句型"
             }
           },
           {
@@ -198,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "英语/07 主谓一致.md",
+                "file": "英语/08 特殊句型.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 07 主谓一致"
+              "title": "Graph of 08 特殊句型"
             }
           }
         ],
@@ -247,21 +248,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "255b97b078e44f1c",
+  "active": "91c5d1fa31420aba",
   "lastOpenFiles": [
-    "英语/06 状语从句.md",
     "英语/07 主谓一致.md",
+    "英语/08 特殊句型.md",
+    "计算机基础/3. Word 字处理软件.md",
+    "计算机基础/4. Excel 电子表格处理软件.md",
+    "英语/02 虚拟语气.md",
+    "英语/06 状语从句.md",
     "sympathy.md",
     "英语/05 名词性从句.md",
     "consciousness.md",
     "英语/04 定语从句.md",
-    "计算机基础/3. Word 字处理软件.md",
     "计算机基础/2. Windows 7 操作系统.md",
     "armed with.md",
     "英语词汇/未命名.md",
     "英语词汇/(19)Why do people change their careers.md",
     "英语/03 非谓语动词.md",
-    "英语/02 虚拟语气.md",
     "数据库原理/第一章 绪论.md",
     "数据库原理/第一章 绪论/数据结构化.md",
     "discomfort.md",
@@ -278,8 +281,6 @@
     "数据库原理/第一章 绪论/Pasted image 20241021113923_数据库系统的三级模式结构.png",
     "数据库原理/第一章 绪论/Pasted image 20241021112701_术语对比.png",
     "数据库原理/第一章 绪论/Pasted image 20241021112607_表中有表-实例.png",
-    "数据库原理/第一章 绪论/常用的数据模型.md",
-    "数据库原理/第一章 绪论/网状模型.md",
     "数据库原理/第一章 绪论/Pasted image 20241021111028_层次模型的数据结构实例.png",
     "数据库原理/第一章 绪论/Pasted image 20241021095528_数据库管理系统-引入数据库后计算机系统的层次结构.png",
     "Templates",

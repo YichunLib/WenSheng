@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/10 作文.md",
-                "mode": "source",
+                "file": "英语/08 特殊句型.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 作文"
+              "title": "08 特殊句型"
             }
           }
         ]
@@ -135,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/10 作文.md"
+                "file": "英语/08 特殊句型.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 10 作文"
+              "title": "Outline of 08 特殊句型"
             }
           },
           {
@@ -174,8 +174,7 @@
               "title": "Outgoing links from 05 名词性从句"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "30433c45037514e8",
@@ -198,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "英语/10 作文.md",
+                "file": "英语/08 特殊句型.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +225,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 10 作文"
+              "title": "Graph of 08 特殊句型"
             }
           }
         ],
@@ -250,6 +249,9 @@
   "active": "def9456ae52c99a9",
   "lastOpenFiles": [
     "英语/09 词形转换.md",
+    "英语/08 特殊句型.md",
+    "计算机基础/3. Word 字处理软件.md",
+    "计算机基础/4. Excel 电子表格处理软件.md",
     "英语/10 作文.md",
     "英语/06 状语从句.md",
     "英语/04 定语从句.md",
@@ -259,11 +261,8 @@
     "armed with.md",
     "英语/03 非谓语动词.md",
     "英语/02 虚拟语气.md",
-    "英语/08 特殊句型.md",
-    "计算机基础/3. Word 字处理软件.md",
     "Windows 注册表.md",
     "Templates/emoji-star.md",
-    "计算机基础/4. Excel 电子表格处理软件.md",
     "计算机基础/1.7. 多媒体.md",
     "数据库原理/第一章 绪论.md",
     "数据库原理/1.1 数据库系统概述.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/08 特殊句型.md",
-                "mode": "preview",
+                "file": "计算机基础/4. Excel 电子表格处理软件.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 特殊句型"
+              "title": "4. Excel 电子表格处理软件"
             }
           }
         ]
@@ -71,7 +71,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           },
           {
@@ -135,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/08 特殊句型.md"
+                "file": "计算机基础/4. Excel 电子表格处理软件.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 08 特殊句型"
+              "title": "Outline of 4. Excel 电子表格处理软件"
             }
           },
           {
@@ -174,7 +174,8 @@
               "title": "Outgoing links from 05 名词性从句"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "30433c45037514e8",
@@ -197,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "英语/08 特殊句型.md",
+                "file": "计算机基础/4. Excel 电子表格处理软件.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +226,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 08 特殊句型"
+              "title": "Graph of 4. Excel 电子表格处理软件"
             }
           }
         ],

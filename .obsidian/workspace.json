@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/05 名词性从句.md",
-                "mode": "preview",
+                "file": "计算机基础/6. Internet 网络基础.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 名词性从句"
+              "title": "6. Internet 网络基础"
             }
           }
         ]
@@ -135,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/05 名词性从句.md"
+                "file": "计算机基础/6. Internet 网络基础.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 05 名词性从句"
+              "title": "Outline of 6. Internet 网络基础"
             }
           },
           {
@@ -198,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "英语/05 名词性从句.md",
+                "file": "计算机基础/6. Internet 网络基础.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +226,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 05 名词性从句"
+              "title": "Graph of 6. Internet 网络基础"
             }
           }
         ],
@@ -247,8 +247,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03cc8a6a657d3568",
+  "active": "ca60257b23157606",
   "lastOpenFiles": [
+    "英语/05 名词性从句.md",
+    "计算机基础/6. Internet 网络基础.md",
     "PS/Contents.md",
     "PS/步骤/工作区.md",
     "计算机基础/5. PowerPoint 演示文稿制作软件.md",
@@ -271,13 +273,11 @@
     "英语/06 状语从句.md",
     "英语/04 定语从句.md",
     "英语/07 主谓一致.md",
-    "英语/05 名词性从句.md",
     "armed with.md",
     "英语/03 非谓语动词.md",
     "Windows 注册表.md",
     "Templates/emoji-star.md",
     "计算机基础/1.7. 多媒体.md",
-    "数据库原理/第一章 绪论.md",
     "英语词汇",
     "数据库原理/第一章 绪论",
     "数据库原理/第一章 绪论/Pasted image 20241021113923_数据库系统的三级模式结构.png",
